@@ -8,6 +8,7 @@
  ### Abuse de sua criatividade para a criação da página! 
 
  ### **Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.**
+ _ _ _ _
 
 # Talento Cloud Pro Projeto 2
 ## Com a página sobre o Marco Zero feita, é necessário de uma outra página e de um link que leve até ela. Na nova página, fale sobre dois outros pontos turísticos do Recife Antigo e siga os pré-requisitos a seguir: 
@@ -16,3 +17,11 @@
 ### 2. adicione imagens sobre os lugares. 
 
 ### **Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.**
+_ _ _ _
+
+
+# Talento Cloud Pro Projeto 3 - CSS
+## Agora que já aprendeu as propriedades básicas da CSS, é possível aprimorar a atividade anterior aplicando estilos para a página que você já criou. 
+
+### **Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.**  
+_ _ _ _

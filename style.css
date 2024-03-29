@@ -40,6 +40,10 @@ footer {
 #sobre {
     background-color: #f2f2f2;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 #sobre p {
@@ -50,6 +54,7 @@ footer {
 #recife_antigo {
     background-color: #f2f2f2;
     padding: 20px;
+    
 }
 
 #recife_antigo p {

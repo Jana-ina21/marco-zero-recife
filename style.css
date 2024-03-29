@@ -1,0 +1,65 @@
+/* Estilização geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilização específica para o primeiro arquivo */
+#sobre {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#sobre p {
+    line-height: 1.5;
+}
+
+/* Estilização específica para o segundo arquivo */
+#recife_antigo {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#recife_antigo p {
+    line-height: 1.5;
+}
+
+/* Estilização específica para as imagens */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
